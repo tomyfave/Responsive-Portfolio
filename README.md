@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Making my basic portfolio responsive 
+# Bootstrap-Portfolio
+bootstrap recreation of my portfolio

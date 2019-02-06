@@ -1,0 +1,89 @@
+body {
+    background-color: #a1cfce;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+nav.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0px;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+nav.navbar-nav {
+    float:right;
+    
+}
+
+.navbarNavAltMarkup {
+    float:right;    
+}
+
+
+
+.logo{
+    background-color: #4aaaa5;
+    color: #fff;
+    font-size: 25px;
+    height: 100%;
+    margin-left: 12.25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+#main-container {
+    padding-top: 130px;
+
+}
+
+.main-section {
+    background: #fff;
+    padding: 30px;
+    margin: 0 0 40px 0;
+    width: 100%;
+    max-width: 650px;
+    float: left;
+    border: 1px solid #ddd;
+}
+
+.auth-image {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    float: left;
+    margin-right: 25px;
+}
+
+.sidebar {
+    background: #fff;
+    padding: 30px;
+    width: 300px;
+    max-width: 300px;
+    float: right;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+h3, .sidebar, h2 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+}
+
+.social {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+
+.social:last-child {
+    margin-right: 0;
+}
